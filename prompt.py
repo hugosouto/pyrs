@@ -1,0 +1,1 @@
+python ./pyrs.py input/input.py > output/output.rs
